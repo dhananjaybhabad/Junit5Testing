@@ -1,0 +1,1 @@
+package com.junit5testing.services;public class Calculator {    public static int doAdd(int a, int b) {        return a + b;    }    public static int doSub(int a, int b) {        return a - b;    }    public static int doMul(int a, int b) {        return a * b;    }    public static int doDiv(int a, int b) {        return a / b;    }}
